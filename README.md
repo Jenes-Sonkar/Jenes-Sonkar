@@ -1,5 +1,10 @@
 # Hi there, I'm Jenes Sonkar 👋
 
+<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2pnMHJoam1iY2Y1bW90Y3dncG0yeHNmeWdtNWRxc2R6M2hnMDdndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.webp" width="230">
+
+CSE student at [**`IIIT Sonepat`**](https://www.iiitsonepat.ac.in/) <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+Intrested in `Backend`, `Linux`, `AWS` and `Python`.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
+
 Welcome to my GitHub profile!  
 I'm a *final-year B.Tech student* in *Computer Science* at the *Indian Institute of Information Technology, Sonepat*.  
 I’m passionate about **backend engineering**, **system design**, and creating **scalable, secure APIs**.  
