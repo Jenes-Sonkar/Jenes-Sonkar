@@ -27,7 +27,7 @@ I’m passionate about **backend engineering**, **system design**, and creating 
 - Pyhton (Backend Development)  
 - SQL (Database Queries & Optimization)
   
-  **⚙️ Frontend & Frameworks**  
+**⚙️ Frontend & Frameworks**  
 - ReactJS 
 
 **⚙️ Backend & Frameworks**  
