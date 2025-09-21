@@ -24,9 +24,11 @@ I’m passionate about **backend engineering**, **system design**, and creating 
 
 **💻 Programming Languages**  
 - C++ (Problem Solving, DSA)  
-- JavaScript (Backend Development)  
-- Python (Scripting, Flask)  
-- SQL (Database Queries & Optimization)  
+- Pyhton (Backend Development)  
+- SQL (Database Queries & Optimization)
+  
+  **⚙️ Frontend & Frameworks**  
+- ReactJS 
 
 **⚙️ Backend & Frameworks**  
 - Node.js, Express.js  
