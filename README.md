@@ -97,7 +97,7 @@ I’m passionate about **backend engineering**, **system design**, and creating 
       </a>
     </td>
     <td>
-      <a href="mailto:jenessonkar40@gmail.com" target="_blank">
+      <a href="mailto:jenessonkar@gmail.com" target="_blank">
         <img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail" width="35" height="35"/>
       </a>
     </td>
